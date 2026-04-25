@@ -41,4 +41,3 @@ Restart Codex after installation so the new skills are loaded.
 
 - These skills are written for Graphictac marketing, sales, social, SEO, and business development workflows.
 - The `SKILL.md` filename inside each folder is required for Codex compatibility.
-
